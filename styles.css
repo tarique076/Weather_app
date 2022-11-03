@@ -1,7 +1,7 @@
 body{
     padding: 10px;
     margin: auto;
-    background: url(/Weather_app/img/blue-sky-with-shiny-clouds-background_1017-23279.webp);
+    background: url(./img/blue-sky-with-shiny-clouds-background_1017-23279.webp);
     background-size: cover;
     cursor: pointer;
     width: 80%;
