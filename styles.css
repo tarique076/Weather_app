@@ -1,3 +1,11 @@
+body{
+    padding: 10px;
+    margin: auto;
+    background-image: url(https://img.freepik.com/free-vector/blue-sky-with-shiny-clouds-background_1017-23279.jpg?w=360);
+    background-size: cover;
+    cursor: pointer;
+    width: 80%;
+}
 .gmap_canvas {
     overflow:hidden;
     background:none!important;
@@ -13,11 +21,14 @@
 #city{
     padding: 10px;
     width: 40%;
-    margin: 20px 0px 20px 40px;
+    /* margin: 20px 0px 20px 40px; */
 }
 
 #main_con{
     display: flex;
+    width: 90%;
+    margin: auto;
+    gap: 40px;
     padding: 20px;
     height: 400px;
 }
